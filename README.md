@@ -14,8 +14,9 @@
 > APi接口来源于 `https://github.com/messoer/MessMusic` 接口文档说明 [查看](https://messoer.github.io/mess-api-doc/#/)
 
 ### others
-[贪吃蛇](https://yxrbws.github.io/game/Snake/snake.html)          
-[烟花](https://yxrbws.github.io/game/Fireworks/index.html)          
-[俄罗斯方块](https://yxrbws.github.io/game/Tetris/tetris.html)               
-[2048](https://yxrbws.github.io/game/2048/index.html)         
-[shoot](https://yxrbws.github.io/game/shoot/simple-shoot.html)
+[贪吃蛇](https://yxrbws.github.io/Game/Snake/snake.html)          
+[烟花](https://yxrbws.github.io/Game/Fireworks/index.html)          
+[俄罗斯方块](https://yxrbws.github.io/Game/Tetris/tetris.html)               
+[2048](https://yxrbws.github.io/Game/2048/index.html)         
+[shoot](https://yxrbws.github.io/Game/shoot/simple-shoot.html)
+[栅格自适应布局](https://yxrbws.github.io/Game/grid/index.html)
