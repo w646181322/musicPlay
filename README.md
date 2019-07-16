@@ -19,4 +19,4 @@
 [俄罗斯方块](https://yxrbws.github.io/test/Tetris/tetris.html)               
 [2048](https://yxrbws.github.io/test/2048/index.html)         
 [shoot](https://yxrbws.github.io/test/shoot/simple-shoot.html)      
-[栅格自适应布局](https://yxrbws.github.io/test/grid/index.html)
+[栅格自适应布局](https://yxrbws.github.io/test/boostrap4.x/index.html)
