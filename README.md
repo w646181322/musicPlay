@@ -3,6 +3,7 @@
 > 技术栈：vue vue-router vue-resource mint-ui
 
 #### 在线（手机模式）[预览](https://yxrbws.github.io/musicPlay/)
+    api接口出错 暂时无法访问数据
 
 ### test:
 ![](./test/3.png)
